@@ -13,7 +13,7 @@ I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** pursuing
 - 🌱 Currently exploring **Advanced Blockchain Development** and **DeFi protocols**
 - 🔭 Working on **TrustChain** - Anti-Corruption Blockchain Platform
 - 📫 **Portfolio**: [arnavportfolio20604.netlify.app](https://arnavportfolio20604.netlify.app/)
-- ⚡ Fun fact: I've built a crypto arbitrage bot that achieved 10% simulated profit!
+  
 
 ## 🛠️ Tech Stack
 
