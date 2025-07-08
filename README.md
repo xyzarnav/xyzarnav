@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Arnav Yadav
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Blockchain+Enthusiast;B.E.+Information+Technology;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Blockchain+Enthusiast;B.E.+Information+Technology;Problem+Solver;Always+Learning!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -20,19 +20,17 @@ I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** pursuing
 ### Programming Languages
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
- 
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </div>
 
 ### Frontend Technologies
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -56,29 +54,23 @@ I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** pursuing
 
 ### Tools & Technologies
 <div align="center">
-
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome DevTools" />
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xyzarnav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyzarnav&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xyzarnav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyzarnav&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyzarnav&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xyzarnav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 💼 Experience
@@ -92,10 +84,11 @@ I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** pursuing
 
 ## 🌟 Featured Projects
 
-### 🔗 [TrustChain: Anti-Corruption Blockchain Platform](https://github.com/xyzarnav/trustchain)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+### 🔗 TrustChain: Anti-Corruption Blockchain Platform
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
 **🎯 Revolutionary Web3 platform for transparent government bidding processes**
 
@@ -106,12 +99,12 @@ I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** pursuing
 
 ---
 
-### 🤖 [Crypto Arbitrage Bot](https://github.com/xyzarnav/crypto-arbitrage-bot)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Trading](https://img.shields.io/badge/Trading-FF6B6B?style=flat-square&logo=bitcoin&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+### 🤖 Crypto Arbitrage Bot
 
-**📈 High-frequency trading bot achieving 10% simulated profit**
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Trading](https://img.shields.io/badge/Trading-FF6B6B?style=flat-square&logo=bitcoin&logoColor=white)
+
+**📈 High-frequency trading bot achieving 5% simulated profit**
 
 - ⚡ Exploits price differences across multiple exchanges (500+ simulated trades)
 - 🔄 Real-time market data streaming via Binance API and WebSockets
@@ -120,10 +113,10 @@ I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** pursuing
 
 ---
 
-### 🌐 [Decentralized Freelancer Marketplace](https://github.com/xyzarnav/freelancer-marketplace)
+### 🌐 Decentralized Freelancer Marketplace
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 **🔐 Blockchain-powered freelancer marketplace with secure transactions**
 
@@ -134,7 +127,7 @@ I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** pursuing
 
 ---
 
-### 🎓 [CampusConnect](https://github.com/xyzarnav/campus-connect)
+### 🎓 CampusConnect
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -146,10 +139,23 @@ I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** pursuing
 - 📱 Optimized performance across mobile and desktop platforms
 - 🎯 Enhanced user experience through database query optimization
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyzarnav&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+
+## 🎯 Current Focus
+
+```javascript
+const arnav = {
+    education: "B.E. Information Technology @ VESIT (CGPA: 9.04)",
+    currentRole: "Web Developer Intern",
+    focusAreas: ["Blockchain Development", "Full Stack Web Development", "DeFi"],
+    currentProjects: ["TrustChain Platform", "Advanced Trading Algorithms"],
+    learning: ["Advanced Solidity", "DeFi Protocols", "Cloud Architecture"],
+    lookingFor: "Blockchain & Full Stack Development Opportunities"
+};
+```
 
 ## 🤝 Connect with Me
 
@@ -168,32 +174,13 @@ I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** pursuing
   </a>
 </div>
 
-## 🎯 Current Focus
-
-```javascript
-const arnav = {
-    education: "B.E. Information Technology @ VESIT (CGPA: 9.04)",
-    currentRole: "Web Developer Intern",
-    focusAreas: ["Blockchain Development", "Full Stack Web Development", "DeFi"],
-    currentProjects: ["TrustChain Platform", "Advanced Trading Algorithms"],
-    learning: ["Advanced Solidity", "DeFi Protocols", "Cloud Architecture"],
-    lookingFor: "Blockchain & Full Stack Development Opportunities"
-};
-```
-
-## 💡 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
+## 📊 Profile Stats
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xyzarnav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/xyzarnav?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
+---
+
 <div align="center">
-  <h3>🚀 Let's Build Something Amazing Together! 🚀</h3>
-  <p>Open to collaborations on innovative projects, especially in Blockchain and Web3 space!</p>
-</div>
+  <h3>🚀 Let's Build Something Amazing Together!
