@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **Cloud Technologies** pursuing B.E. in Information Technology at VESIT, Mumbai. I love building innovative solutions that solve real-world problems, from Web3 applications to high-frequency trading bots.
+I'm a passionate **Full Stack Developer** and **Cloud Technologies** pursuing B.E. in Information Technology at VESIT, Mumbai. I love building innovative solutions that solve real-world problems, from Web3 applications to high-frequency trading bots hosted in Cloud.
 
 - 🎓 **B.E. Information Technology** at VESIT, Mumbai (CGPA: 9.04)
 - 💼 **Web Developer Intern** at VESIT College Website Team
