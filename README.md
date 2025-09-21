@@ -1,16 +1,16 @@
 # Hi there! 👋 I'm Arnav Yadav
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Blockchain+Enthusiast;B.E.+Information+Technology;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Cloud+Technologies+Enthusiast;B.E.+Information+Technology;Problem+Solver;Always+Learning!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** pursuing B.E. in Information Technology at VESIT, Mumbai. I love building innovative solutions that solve real-world problems, from Web3 applications to high-frequency trading bots.
+I'm a passionate **Full Stack Developer** and **Cloud Technologies** pursuing B.E. in Information Technology at VESIT, Mumbai. I love building innovative solutions that solve real-world problems, from Web3 applications to high-frequency trading bots.
 
 - 🎓 **B.E. Information Technology** at VESIT, Mumbai (CGPA: 9.04)
 - 💼 **Web Developer Intern** at VESIT College Website Team
-- 🌱 Currently exploring **Advanced Blockchain Development** and **DeFi protocols**
+- 🌱 Currently exploring **AWS CloudFormation** and **Kubernetes**
 - 🔭 Working on **TrustChain** - Anti-Corruption Blockchain Platform
 - 📫 **Portfolio**: [arnavportfolio20604.netlify.app](https://arnavportfolio20604.netlify.app/)
   
