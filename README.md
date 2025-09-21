@@ -150,10 +150,10 @@ I'm a passionate **Full Stack Developer** and **Cloud Technologies** pursuing B.
 const arnav = {
     education: "B.E. Information Technology @ VESIT (CGPA: 9.04)",
     currentRole: "Web Developer Intern",
-    focusAreas: ["Blockchain Development", "Full Stack Web Development", "DeFi"],
+    focusAreas: ["Cloud Development", "Full Stack Web Development", "DeFi"],
     currentProjects: ["TrustChain Platform", "Advanced Trading Algorithms"],
-    learning: ["Advanced Solidity", "DeFi Protocols", "Cloud Architecture"],
-    lookingFor: "Blockchain & Full Stack Development Opportunities"
+    learning: ["TypeScript", "SEO", "Cloud Architecture"],
+    lookingFor: "Cloud (AWS, Azure, GCP) & Full Stack Development Opportunities"
 };
 ```
 
