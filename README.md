@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Arnav Yadav
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Cloud+Technologies+Enthusiast;B.E.+Information+Technology;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Cloud+Technologies+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -74,12 +74,17 @@ I'm a passionate **Full Stack Developer** and **Cloud Technologies** pursuing B.
 </div> -->
 
 ## 💼 Experience
+### 🏢 Full Stack Developer Intern – Rygneco, Cincinnati, USA (Remote)
+
+**Jun 2025 – Present**
+-🎨 Built a responsive React.js and Next.js interface using mobile-first design, code splitting, and lazy loading
+-🧩 Created reusable Next.js components to streamline development and improve UI consistency
+-⚙️ Deployed AWS Lambda functions integrated with DynamoDB, using secondary indexes and pagination for faster queries
 
 ### 🏢 Web Developer Intern - VESIT College Website Team
-**Jul 2024 – Present**
-- 🚀 Collaborated in an Agile 5-member team to enhance college website functionality
-- ⚡ Improved performance by **30%** using Laravel, JavaScript, and PHP
-- 📈 Resolved PHP file upload issues, increasing successful submissions by **40%**
+**Jul 2024 – June 2025**
+- 🚀 Worked in a 7-member team to update and maintain the college website
+- ⚡ Enhanced site efficiency by refactoring Laravel, JavaScript, and PHP modules for cleaner, more scalable code
 - 🔄 Integrated CI/CD flow via GitHub Actions for automated deployment
 
 ## 🌟 Featured Projects
