@@ -139,10 +139,6 @@ I'm a passionate **Full Stack Developer** and **Cloud Technologies** pursuing B.
 - 📱 Optimized performance across mobile and desktop platforms
 - 🎯 Enhanced user experience through database query optimization
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyzarnav&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ## 🎯 Current Focus
 
